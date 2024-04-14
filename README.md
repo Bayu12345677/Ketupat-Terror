@@ -8,7 +8,7 @@
 
 <br>
 Ketupat Terror merupakan sebuah program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target<br>
-dengan bermodalkan nomor telepon target, dan tools ini sangat saya rekomendasikan untuk meneror teman kalian<>
+dengan bermodalkan nomor telepon target, dan tools ini sangat saya rekomendasikan untuk meneror teman kalian<br>
   yang tidak datang ke rumah kalian di saat hari raya idul fitri :v
 <br>
 
