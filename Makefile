@@ -6,6 +6,7 @@ setup:
 	pip install requests
 	pip install httpie
 	pip install phonenumbers
+	pip install rich
 	pip install rich-cli
 	@gem install lolcat
 	@npm -g i chalk chalk-animation
